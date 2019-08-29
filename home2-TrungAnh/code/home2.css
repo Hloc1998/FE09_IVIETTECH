@@ -1,0 +1,51 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(to bottom right, #003399 0%, #33ccff 100%);
+}
+
+.title {
+    font-size: 30px;
+}
+
+#centerBox {
+    padding: 2% 0 2%;
+    width: 50%;
+    margin-top: 10%;
+    background-color: white;
+    align-self: center;
+    border-radius: 10px;
+    box-shadow: 3px 3px;
+}
+
+#btnSendEmail {
+    background-color: #86B404;
+    width: 40%;
+    color: white;
+}
+
+table {
+    width: 100%;
+    /*border:1px solid black;*/
+}
+
+th {
+    width: 50%;
+    align-self: center;
+    /*border: 1px solid black;*/
+}
+
+input,
+textarea {
+    font-family: "Roboto", sans-serif;
+    background: #f2f2f2;
+    width: 60%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    font-size: 14px;
+    border-radius: 20px;
+    resize: none;
+}
