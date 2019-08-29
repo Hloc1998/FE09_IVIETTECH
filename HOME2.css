@@ -1,0 +1,45 @@
+body {
+	background: linear-gradient(to right,#8A0BEB,#30CDFF);
+}
+img {
+	position: absolute;
+	top:3cm;
+	left:2cm;
+	width:4cm;
+	height:4cm;
+	box-shadow: 2px 2px 2px  #F7F2E0;
+}
+h1 {
+	text-indent: 10cm;
+}
+#box {
+	width: 18cm;
+	height: 10cm;
+	background-color: #F7F2E0;
+	position: absolute;
+	top: 4cm;
+	left: 9cm;
+	box-shadow: 2px 2px 2px #F7F2E0;
+	border-radius: 10px;
+}
+p {
+	color: #000000;
+	text-indent: 10cm;
+	font-size: 25px;
+}
+input {
+	width: 65mm;
+	height: 6mm;
+	border-radius: 10px;
+	box-shadow: 2px 2px 2px #BDBDBD;
+	background-color: #BDBDBD;
+}
+button {
+	background-color: #FF0000;
+	border-radius: 10px;
+	position: absolute;
+	width: 20mm;
+	height: 10mm;
+	right: 4cm;
+	box-shadow: 1px 1px 1px #FF0000;
+}
